@@ -1,0 +1,13 @@
+=www-plugins/chrome-binary-plugins-60.0.3112.32_beta ~amd64
+dev-libs/re2 ~amd64
+#www-plugins/chrome-binary-plugins ~amd64
+www-client/google-chrome-beta ~amd64
+#www-client/google-chrome-unstable ~amd64
+=media-video/ffmpeg-2.8.2 ~amd64
+www-client/chromium ~amd64
+
+
+www-client/google-chrome ~amd64
+
+
+

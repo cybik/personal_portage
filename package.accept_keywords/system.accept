@@ -1,0 +1,5 @@
+=sys-apps/dbus-1.10.18 ~amd64
+=sys-apps/dbus-1.10.24 ~amd64
+=sys-apps/dbus-1.12.0 ~amd64
+=sys-apps/dbus-1.12.2 ~amd64
+sys-apps/inxi ~amd64

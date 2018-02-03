@@ -1,0 +1,2 @@
+# Asynchronous DNS and Threads don't work with Curl.
+net-misc/curl -threads

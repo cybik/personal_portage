@@ -1,0 +1,8 @@
+
+>=dev-libs/jansson-2.9 abi_x86_32
+>=media-libs/cogl-1.18.2 gles2
+media-libs/mesa gles2
+
+x11-libs/libdrm libkms
+
+

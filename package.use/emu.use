@@ -1,0 +1,25 @@
+
+app-emulation/spice smartcard
+net-misc/spice-gtk smartcard python_single_target_python2_7 -python_single_target_python3_4
+app-emulation/qemu smartcard
+>=sys-libs/libseccomp-2.2.3 static-libs
+
+>=sys-block/parted-3.2 device-mapper
+>=net-dns/dnsmasq-2.72-r2 script
+app-emulation/libvirt nfs parted virt-network sasl
+>=dev-lang/php-5.5.24 soap
+app-emulation/virtualbox rdesktop-vrdp vboxwebsrv java headless
+app-emulation/virtualbox-bin rdesktop-vrdp vboxwebsrv
+
+app-emulation/qemu spice virtfs nfs sdl2 ssh gtk2
+sys-firmware/ipxe qemu usb vmware
+app-emulation/xen-tools api qemu screen
+
+>=app-emulation/ovirt-host-deploy-1.2.1 java
+>=app-emulation/otopi-1.2.1 java
+>=sys-libs/cracklib-2.9.1-r1 python
+>=www-servers/apache-2.4.18 apache2_modules_proxy_ajp
+app-emulation/ovirt-engine -system-jars
+app-emulation/libvirt-glib python
+net-misc/spice-gtk python -pulseaudio webdav
+net-libs/phodav spice

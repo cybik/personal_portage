@@ -1,0 +1,8 @@
+=sci-libs/cln-1.3.4 ~amd64
+=dev-perl/Module-Build-0.421.800 ~amd64
+
+=perl-core/Module-Metadata-1.0.26 **
+=perl-core/Encode-2.730.0 **
+=perl-core/CPAN-Meta-2.150.1 **
+
+=dev-lang/perl-5.24.3 ~amd64

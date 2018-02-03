@@ -1,0 +1,9 @@
+=sys-libs/libcxx-5.0.1 ~amd64
+=sys-devel/clang-5.0.0 ~amd64
+=sys-libs/libomp-5.0.1 ~amd64
+=sys-libs/compiler-rt-5.0.0 ~amd64
+=sys-libs/libcxxabi-5.0.1 ~amd64
+=sys-devel/llvm-5.0.0 ~amd64
+=sys-libs/compiler-rt-sanitizers-5.0.0 ~amd64
+=sys-devel/clang-runtime-5.0.0 ~amd64
+

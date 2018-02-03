@@ -1,0 +1,20 @@
+media-gfx/krita color-management
+>=media-video/ffmpeg-3.2.4 fdk
+media-sound/abcde cdparanoia
+>=media-video/mpv-0.20.0 libmpv
+media-tv/plex-media-player cec joystick lirc
+media-video/mkvtoolnix curl qt5
+media-video/makemkv qt4 -qt5
+media-libs/libmediainfo mms
+media-video/mediainfo mms
+net-libs/libmicrohttpd messages
+# Created when emerging VLC. Because media useflags. eh.
+# move media-tv/xbmc media-tv/kodi
+media-tv/kodi airplay mysql nfs pvr sftp webserver profile
+media-libs/libsdl xv
+media-sound/lame mp3rtp sndfile
+media-libs/libbluray aacs java
+media-video/ffmpeg aacplus cdio faac fontconfig modplug openal webp opus librtmp
+media-video/vlc avahi bidi cdda dts fontconfig httpd lirc lua matroska mtp rtsp sftp upnp vnc ogg vorbis faad modplug sdl-image xv qt4 -qt5 -rdp -libav -skins -libtar libass opus
+media-plugins/gst-plugins-meta cdda dts mms
+media-tv/kodi sftp mysql profile vaapi webserver pvr nfs midi joystick java cec airplay caps css

@@ -1,0 +1,7 @@
+=sys-kernel/linux-firmware-20150320 ~amd64
+=sys-firmware/iwl6005-ucode-18.168.6.1 ~amd64
+=sys-firmware/iwl3160-ucode-0.12.16.25 ~amd64
+=sys-firmware/iwl3160-7260-bt-ucode-37.8.10_p1 ~amd64
+=sys-firmware/iwl7260-ucode-0.12.16.25 ~amd64
+=sys-firmware/iwl6030-ucode-18.168.6.1 ~amd64
+

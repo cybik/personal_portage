@@ -1,0 +1,19 @@
+=games-util/esteam-0.20170413 ~amd64
+
+=dev-util/adobe-air-runtime-2.6-r2 ~amd64
+=dev-libs/steam-runtime-openssl-1.0.1p ~amd64
+
+net-im/discord-bin ~amd64
+games-strategy/openra ~amd64
+games-strategy/openage **
+
+games-emulation/dolphin ~amd64
+media-libs/libsfml ~amd64
+
+games-strategy/0ad ~amd64
+games-strategy/0ad-data ~amd64
+
+games-util/steam-launcher ~amd64
+games-util/steam-games-meta ~amd64
+games-util/steam-client-meta ~amd64
+games-util/steam-meta ~amd64

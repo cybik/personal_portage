@@ -1,0 +1,13 @@
+kde-plasma/plasma-integration ~amd64
+kde-apps/kio-extras ~amd64
+kde-misc/systemd-kcm ~amd64
+kde-apps/kwrite ~amd64
+kde-apps/baloo-widgets ~amd64
+kde-apps/thumbnailers ~amd64
+kde-apps/kwalletd-pam ~amd64
+kde-apps/kdecore-meta ~amd64
+kde-apps/kdebase-runtime-meta ~amd64
+kde-apps/libkexiv2 ~amd64
+kde-apps/libkdcraw ~amd64
+kde-apps/dolphin ~amd64
+kde-apps/konsole ~amd64

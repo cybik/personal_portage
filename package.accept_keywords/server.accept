@@ -1,0 +1,4 @@
+www-servers/apache ~amd64
+=dev-libs/apr-1.5.1-r1 ~amd64
+app-admin/apache-tools ~amd64
+

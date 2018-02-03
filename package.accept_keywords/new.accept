@@ -1,0 +1,7 @@
+
+=net-libs/http-parser-2.7.1 ~amd64
+=dev-libs/protobuf-3.3.0 ~amd64
+=net-libs/nghttp2-1.29.0 ~amd64
+=dev-libs/libfilezilla-0.11.2 ~amd64
+=dev-libs/libuv-1.19.1 ~amd64
+

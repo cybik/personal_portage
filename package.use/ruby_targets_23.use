@@ -1,0 +1,11 @@
+>=dev-ruby/racc-1.4.14 ruby_targets_ruby23
+>=dev-ruby/net-telnet-0.1.1-r1 ruby_targets_ruby23
+>=dev-ruby/minitest-5.9.1 ruby_targets_ruby23
+>=virtual/rubygems-11 ruby_targets_ruby23
+>=dev-ruby/did_you_mean-1.0.2 ruby_targets_ruby23
+>=dev-ruby/json-1.8.6-r1 ruby_targets_ruby23
+>=dev-ruby/rake-10.5.0 ruby_targets_ruby23
+>=dev-ruby/power_assert-0.3.1 ruby_targets_ruby23
+>=dev-ruby/test-unit-3.1.9 ruby_targets_ruby23
+>=dev-ruby/rdoc-4.3.0 ruby_targets_ruby23
+>=dev-ruby/rubygems-2.6.14 ruby_targets_ruby23

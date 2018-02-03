@@ -1,0 +1,13 @@
+#=sys-devel/llvm-3.7.1-r3
+#=sys-devel/clang-3.7.1-r100
+
+=dev-util/mingw-runtime-3.18
+# required by mingw64-runtime (argument)
+# /Depot/portage/profiles/package.mask:
+# Diego E. Pettenò <flameeyes@gentoo.org> (03 Jan 2009)
+# These packages are not supposed to be merged directly, instead
+# please use sys-devel/crossdev to install them.
+=dev-util/mingw64-runtime-4.0.1
+
+
+=sys-devel/gcc-5.4.0-r3

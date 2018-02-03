@@ -1,0 +1,47 @@
+kde-apps/kcron ~amd64
+kde-apps/libksane ~amd64
+kde-apps/libkipi ~amd64
+kde-apps/kruler ~amd64
+kde-frameworks/kplotting ~amd64
+kde-apps/kamera ~amd64
+kde-apps/okular ~amd64
+kde-frameworks/kimageformats ~amd64
+kde-apps/ksystemlog ~amd64
+kde-apps/kcolorchooser ~amd64
+kde-apps/spectacle ~amd64
+kde-apps/kdegraphics-mobipocket ~amd64
+kde-apps/svgpart ~amd64
+kde-apps/gwenview ~amd64
+
+kde-apps/kdemultimedia-meta ~amd64
+kde-apps/print-manager ~amd64
+kde-apps/kdegraphics-meta ~amd64
+kde-apps/ktimer ~amd64
+kde-apps/filelight ~amd64
+kde-apps/kmix ~amd64
+kde-apps/dragon ~amd64
+kde-apps/kcharselect ~amd64
+kde-apps/libkcompactdisc ~amd64
+kde-apps/kdeutils-meta ~amd64
+kde-apps/kdenlive ~amd64
+kde-apps/kteatime ~amd64
+kde-apps/kdf ~amd64
+kde-apps/kwalletmanager ~amd64
+kde-apps/sweeper ~amd64
+kde-apps/ark ~amd64
+kde-apps/libkcddb ~amd64
+kde-apps/audiocd-kio ~amd64
+kde-apps/kcalc ~amd64
+kde-apps/kdebugsettings ~amd64
+kde-apps/kdeadmin-meta ~amd64
+kde-apps/ffmpegthumbs ~amd64
+
+#=kde-apps/kolourpaint-16.04.49.9999 **
+#=kde-apps/ksaneplugin-16.04.49.9999 **
+#=kde-apps/libksane-16.04.49.9999 **
+
+#=kde-apps/juk-16.04.49.9999 **
+#=kde-apps/libkcompactdisc-16.04.49.9999 **
+#=kde-apps/kscd-16.04.49.9999 **
+#=kde-apps/phonon-kde-16.04.49.9999 **
+#=kde-apps/audiocd-kio-16.04.49.9999 **

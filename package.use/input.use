@@ -1,0 +1,3 @@
+>=dev-libs/marisa-0.2.4 python
+dev-libs/protobuf java python
+app-i18n/ibus gconf wayland

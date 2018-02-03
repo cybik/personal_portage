@@ -1,0 +1,5 @@
+app-admin/keepassxc ~amd64
+
+=dev-libs/qtkeychain-0.5.0 ~amd64
+=sys-auth/libyubikey-1.13 ~amd64
+=sys-auth/ykpers-1.18.0 ~amd64

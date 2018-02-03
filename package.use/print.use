@@ -1,0 +1,5 @@
+media-gfx/simple-scan colord
+>=dev-libs/libgusb-0.2.9 vala
+net-print/hplip qt4 -kde snmp
+net-print/samsung-unified-driver network
+app-misc/samsung-unified-driver network

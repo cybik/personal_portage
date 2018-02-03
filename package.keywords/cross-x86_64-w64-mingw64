@@ -1,0 +1,4 @@
+cross-x86_64-w64-mingw64/binutils amd64 ~amd64
+cross-x86_64-w64-mingw64/gcc * ~* **
+cross-x86_64-w64-mingw64/mingw64-runtime amd64 ~amd64
+cross-x86_64-w64-mingw64/gdb amd64 ~amd64

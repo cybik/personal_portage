@@ -1,0 +1,4 @@
+=app-emulation/wine-mono-4.7.1 ~amd64
+=app-emulation/wine-vanilla-3.0 ~amd64
+<app-emulation/winetricks-9999 ~amd64
+

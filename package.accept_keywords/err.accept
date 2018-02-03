@@ -1,0 +1,173 @@
+# move dev-libs/kirigami kde-frameworks/kirigami
+=kde-frameworks/kirigami-2.2.0 ~amd64
+# required by @selected
+# required by @world (argument)
+=kde-apps/ktp-call-ui-17.04.2 ~amd64
+# required by kde-apps/kdenetwork-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/zeroconf-ioslave-17.04.2 ~amd64
+# required by kde-apps/ktp-accounts-kcm-17.04.2::gentoo
+# required by kde-apps/plasma-telepathy-meta-17.04.2::gentoo
+# required by kde-apps/kdenetwork-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/kaccounts-providers-17.04.2 ~amd64
+# required by kde-apps/kdenetwork-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/kdenetwork-filesharing-17.04.2 ~amd64
+# required by @selected
+# required by @world (argument)
+=kde-apps/ktp-contact-list-17.04.2 ~amd64
+# required by @selected
+# required by @world (argument)
+=kde-apps/ktp-approver-17.04.2 ~amd64
+# required by kde-apps/kdemultimedia-meta-17.04.2::gentoo[cdrom]
+# required by @selected
+# required by @world (argument)
+=kde-apps/k3b-17.04.2 ~amd64
+# required by @selected
+# required by @world (argument)
+=kde-apps/ktp-contact-runner-17.04.2 ~amd64
+# required by kde-apps/kdecore-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/konqueror-17.04.2 ~amd64
+# required by www-client/chromium-60.0.3112.32::gentoo
+# required by @selected
+# required by @world (argument)
+=media-libs/openh264-1.6.0 ~amd64
+# required by @selected
+# required by @world (argument)
+=kde-apps/ktp-text-ui-17.04.2 ~amd64
+# required by kde-apps/kdecore-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/keditbookmarks-17.04.2 ~amd64
+# required by kde-apps/kdenetwork-meta-17.04.2::gentoo[ppp]
+# required by @selected
+# required by @world (argument)
+=kde-apps/kppp-17.04.2 ~amd64
+# required by @selected
+# required by @world (argument)
+=kde-apps/ktp-desktop-applets-17.04.2 ~amd64
+# required by @selected
+# required by @world (argument)
+=kde-apps/ktp-send-file-17.04.2 ~amd64
+# required by kde-apps/kdemultimedia-meta-17.04.2::gentoo[cdrom]
+# required by @selected
+# required by @world (argument)
+=kde-apps/kscd-17.04.2 ~amd64
+# required by kde-apps/ktp-kded-module-17.04.2::gentoo
+# required by kde-apps/plasma-telepathy-meta-17.04.2::gentoo
+# required by kde-apps/kdenetwork-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/signon-kwallet-extension-17.04.2 ~amd64
+# required by @selected
+# required by @world (argument)
+=kde-apps/ktp-common-internals-17.04.2 ~amd64
+# required by kde-apps/kdemultimedia-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/juk-17.04.2 ~amd64
+# required by kde-apps/kdenetwork-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/krfb-17.04.2 ~amd64
+# required by @selected
+# required by @world (argument)
+=kde-apps/ktp-accounts-kcm-17.04.2 ~amd64
+# required by @selected
+# required by @world (argument)
+=kde-apps/ksaneplugin-17.04.2 ~amd64
+# required by kde-apps/konqueror-17.04.2::gentoo
+# required by kde-apps/kdecore-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/kfind-17.04.2 ~amd64
+# required by kde-apps/kdenetwork-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/kget-17.04.2 ~amd64
+# required by @selected
+# required by @world (argument)
+=kde-apps/plasma-telepathy-meta-17.04.2 ~amd64
+# required by @selected
+# required by @world (argument)
+=kde-apps/ktp-kded-module-17.04.2 ~amd64
+# required by kde-apps/kaccounts-providers-17.04.2::gentoo
+# required by kde-apps/ktp-accounts-kcm-17.04.2::gentoo
+# required by kde-apps/plasma-telepathy-meta-17.04.2::gentoo
+# required by kde-apps/kdenetwork-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/kaccounts-integration-17.04.2 ~amd64
+# required by @selected
+# required by @world (argument)
+=kde-apps/khelpcenter-17.04.2 ~amd64
+# required by kde-apps/kwave-17.04.2::gentoo
+# required by kde-apps/kdemultimedia-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/poxml-17.04.2 ~amd64
+# required by @selected
+# required by @world (argument)
+=kde-apps/ktp-auth-handler-17.04.2 ~amd64
+# required by kde-apps/kdecore-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/kdialog-17.04.2 ~amd64
+# required by @selected
+# required by @world (argument)
+=kde-apps/ktp-filetransfer-handler-17.04.2 ~amd64
+# required by kde-apps/kdemultimedia-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/kwave-17.04.2 ~amd64
+# required by kde-apps/kdenetwork-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/krdc-17.04.2 ~amd64
+# required by kde-apps/kdegraphics-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/kolourpaint-17.04.2 ~amd64
+# required by kde-apps/kgpg-17.04.2::gentoo
+# required by kde-apps/kdeutils-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/kmime-17.04.2 ~amd64
+# required by kde-apps/akonadi-contacts-17.04.2::gentoo
+# required by kde-apps/kgpg-17.04.2::gentoo
+# required by kde-apps/kdeutils-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/akonadi-mime-17.04.2 ~amd64
+# required by kde-apps/kgpg-17.04.2::gentoo
+# required by kde-apps/kdeutils-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/akonadi-contacts-17.04.2 ~amd64
+# required by kde-frameworks/ktexteditor-5.35.0::gentoo
+# required by kde-plasma/plasma-workspace-5.10.2-r1::gentoo
+# required by kde-misc/kdeconnect-1.0.3::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-frameworks/syntax-highlighting-5.35.0 ~amd64
+# required by kde-apps/akonadi-contacts-17.04.2::gentoo
+# required by kde-apps/kgpg-17.04.2::gentoo
+# required by kde-apps/kdeutils-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/akonadi-17.04.2 ~amd64
+# required by kde-apps/kdeutils-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/kgpg-17.04.2 ~amd64
+# required by kde-apps/kgpg-17.04.2::gentoo
+# required by kde-apps/kdeutils-meta-17.04.2::gentoo
+# required by @selected
+# required by @world (argument)
+=kde-apps/kcontacts-17.04.2 ~amd64

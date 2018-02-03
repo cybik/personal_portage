@@ -1,0 +1,2 @@
+=sys-devel/clang-3.7.1-r100
+=sys-devel/llvm-3.7.1

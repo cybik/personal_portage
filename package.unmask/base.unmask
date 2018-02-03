@@ -1,0 +1,13 @@
+=sys-devel/binutils-2.25.1-r1
+=sys-libs/ncurses-5.9-r101
+net-wireless/blueman
+=dev-libs/protobuf-2.6.0
+=sys-devel/make-4.1-r1
+=net-fs/samba-4.1.12
+=net-fs/samba-4.1.12-r1
+=dev-java/sun-jdk-1.6.0.45
+=x11-misc/lightdm-1.11.9
+
+
+# Because java is needed, sadly
+dev-java/oracle-jdk-bin

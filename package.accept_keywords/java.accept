@@ -1,0 +1,7 @@
+=dev-java/netbeans-harness-8.1 ~amd64
+=dev-java/netbeans-ide-8.1-r2 ~amd64
+=dev-java/netbeans-platform-8.1 ~amd64
+dev-java/icedtea ~amd64
+dev-java/icedtea-bin ~amd64
+
+dev-java/oracle-jdk-bin ~amd64

@@ -1,0 +1,5 @@
+=x11-libs/libva-1.8.3 ~amd64 
+=media-video/libva-utils-1.8.3 ~amd64 
+
+=media-video/v4l2loopback-0.10.0 ~amd64
+

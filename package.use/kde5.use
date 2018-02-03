@@ -1,0 +1,36 @@
+kde-plasma/plasma-desktop -scim
+kde-plasma/libplasmaclock -pim
+kde-apps/kdecore-meta -wallpapers
+kde-apps/kdebase-data -wallpapers
+kde-apps/plasma-telepathy-meta -nls
+
+kde-apps/ktp-accounts-kcm experimental
+>=media-libs/qt-gstreamer-1.2.0-r1 qt5
+>=net-libs/telepathy-qt-0.9.6.1 farstream
+kde-apps/ktp-common-internals otr
+
+>=net-libs/telepathy-qt-0.9.6.1 qt5
+>=net-libs/libproxy-0.4.11-r2 -kde
+kde-apps/gwenview raw
+media-libs/mlt -qt4 qt5 -kde melt kdenlive
+#wut
+>=kde-apps/solid-runtime-15.08.3 -bluetooth
+
+
+kde-misc/kdeconnect app
+>=app-crypt/qca-2.1.1 qt5
+kde-plasma/plasma-desktop legacy-systray
+kde-plasma/plasma-meta sdk
+>=dev-qt/qtcore-5.5.1-r1 icu
+>=dev-libs/wayland-1.9.0 abi_x86_32
+>=media-libs/phonon-gstreamer-4.7.2 qt5
+>=app-text/poppler-0.32.0 qt5
+>=media-libs/phonon-4.7.2 qt5
+>=sys-auth/polkit-qt-0.112.0-r1 qt5
+>=media-libs/phonon-vlc-0.7.2 qt5
+>=dev-libs/libdbusmenu-qt-0.9.3_pre20140619-r1 qt5
+>=media-libs/mesa-11.0.6 wayland
+kde-apps/kget -bittorrent
+
+>=dev-qt/qtscript-5.6.0 scripttools
+net-misc/connman iptables

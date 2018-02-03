@@ -1,0 +1,8 @@
+app-editors/atom ~amd64
+
+=dev-util/electron-0.36.9 ~amd64
+=dev-util/apm-1.9.2 ~amd64
+=dev-libs/libuv-1.8.0 ~amd64
+=dev-libs/icu-57.1 ~amd64
+=net-libs/http-parser-2.6.2 ~amd64
+=net-libs/nodejs-5.10.1 ~amd64

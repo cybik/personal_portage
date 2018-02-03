@@ -1,0 +1,31 @@
+
+media-libs/gegl raw
+sys-apps/gnome-disk-utility fat gnome
+media-plugins/grilo-plugins tracker
+
+gnome-base/gnome-extra-apps -tracker -games
+>=net-libs/gtk-vnc-0.5.4 python
+x11-misc/xscreensaver gdm
+dev-libs/folks utils
+app-misc/tracker gstreamer -ffmpeg rss playlist
+gnome-base/nautilus gnome tracker
+>=dev-libs/libgdata-0.17.3 gnome
+#>=app-crypt/gcr-3.14.0 vala
+#>=dev-libs/libgdata-0.16.1 gnome
+>=app-text/poppler-0.26.5 cairo
+>=gnome-extra/evolution-data-server-3.13.6 vala
+>=media-libs/grilo-0.2.11 playlist
+#>=media-plugins/grilo-plugins-0.2.13 tracker upnp-av
+#>=www-servers/apache-2.4.10-r1 apache2_modules_auth_digest
+gnome-base/gnome -extras
+
+
+net-libs/gupnp -connman
+media-libs/libmediaart -qt5 -qt4
+dev-libs/folks eds
+>=x11-libs/gdk-pixbuf-2.30.8 jpeg
+=media-libs/harfbuzz-0.9.35 icu
+>=media-libs/clutter-1.20.0 egl
+=sys-fs/cryptsetup-1.6.5 udev
+>=dev-libs/libxml2-2.9.2 python
+

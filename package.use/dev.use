@@ -1,0 +1,6 @@
+dev-util/cppcheck htmlreport
+sys-devel/gcc go objc objc++ objc-gc
+dev-util/cmake qt5
+dev-util/mingw64-runtime idl libraries tools
+media-libs/sdl2-mixer mp3 mad
+sys-libs/libunwind debug debug-frame libatomic

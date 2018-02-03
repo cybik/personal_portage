@@ -1,0 +1,4 @@
+# move app-office/akonadi-server kde-apps/akonadi
+kde-apps/akonadi qt5
+app-misc/tracker -gstreamer ffmpeg
+dev-util/cmake qt5

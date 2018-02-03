@@ -1,0 +1,5 @@
+# Temporary
+
+#=x11-drivers/nvidia-drivers-375.20-r1
+=x11-drivers/nvidia-drivers-375.20-r1
+#>=sys-kernel/gentoo-sources-4.9.0

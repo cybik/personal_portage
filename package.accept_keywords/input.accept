@@ -1,0 +1,17 @@
+# required by ibus-kkc (argument)
+=app-i18n/ibus-kkc-9999 **
+# required by app-i18n/imsettings-1.6.8::gentoo
+# required by app-i18n/im-chooser-1.6.4::wjn-overlay
+# required by im-chooser (argument)
+=x11-libs/libgxim-0.5.0 ~amd64
+# required by im-chooser (argument)
+=app-i18n/im-chooser-1.6.4 ~amd64
+# required by libkkc-data (argument)
+=app-i18n/libkkc-data-0.2.7 **
+# required by app-i18n/ibus-kkc-9999::wjn-overlay
+# required by ibus-kkc (argument)
+=app-i18n/libkkc-9999 **
+# required by app-i18n/im-chooser-1.6.4::wjn-overlay
+# required by im-chooser (argument)
+=app-i18n/imsettings-1.6.8 ~amd64
+

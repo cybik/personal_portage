@@ -1,0 +1,2 @@
+lxqt-base/lxqt-meta -lightdm sddm sudo admin lximage ssh-askpass
+lxqt-base/lxqt-panel alsa clock desktopswitch kbindicator mainmenu mount pulseaudio quicklaunch showdesktop taskbar tray volume colorpicker cpuload dom networkmonitor screensaver sensors statusnotifier sysstat worldclock

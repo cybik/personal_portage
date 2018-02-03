@@ -1,0 +1,12 @@
+=dev-haskell/template-0.2.0.10 ~amd64
+
+=dev-haskell/language-c-0.7.1 ~amd64
+=dev-haskell/cabal-2.0.0.2 **
+=dev-lang/ghc-8.0.2 **
+=dev-haskell/binary-0.8.3.0 **
+=dev-haskell/syb-0.5.1 **
+=dev-haskell/primitive-0.6.1.0-r1 **
+=dev-haskell/alsa-mixer-0.2.0.3 **
+=dev-haskell/c2hs-0.28.3 **
+=dev-haskell/alex-3.2.1 **
+media-fonts/hasklig ~amd64

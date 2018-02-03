@@ -1,0 +1,2 @@
+=kde-frameworks/ki18n-5.32.0  python_single_target_python3_4 python_targets_python3_4 -python_single_target_python3_5 -python_targets_python3_5
+=dev-libs/gobject-introspection-1.50.0 python_single_target_python3_4 python_targets_python3_4 -python_single_target_python3_5 -python_targets_python3_5

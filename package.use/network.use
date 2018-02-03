@@ -1,0 +1,15 @@
+#net-misc/iputils -arping
+=net-misc/nextcloud-client-2.2.4-r1 dolphin
+
+net-misc/teamviewer -system-wine
+>=sys-libs/tevent-0.9.28 python
+>=sys-libs/tdb-1.3.8 python
+>=sys-libs/ntdb-1.0-r1 python
+net-wireless/blueman network thunar appindicator
+net-misc/tigervnc server
+net-misc/openldap minimal
+net-misc/ssvnc java
+net-misc/tightvnc server java
+net-fs/samba winbind
+
+

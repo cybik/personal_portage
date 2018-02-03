@@ -1,0 +1,3 @@
+cross-x86_64-w64-mingw64/binutils -sanitize -fortran -go -gcj -objc -objc++ -openmp -selinux -multilib
+cross-x86_64-w64-mingw64/mingw64-runtime -sanitize -fortran -go -gcj -objc -objc++ -openmp -selinux -multilib
+cross-x86_64-w64-mingw64/gcc -sanitize -fortran -go -gcj -objc -objc++ -openmp -selinux -boundschecking -d -gcj -gtk -libffi -mudflap -objc -objc++ -objc-gc -fortran -go nocxx -cxx -openmp -sanitize -multilib

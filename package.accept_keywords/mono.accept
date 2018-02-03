@@ -1,0 +1,11 @@
+dev-dotnet/referenceassemblies-pcl ~amd64
+<=dev-lang/mono-5.8.0.22 ~amd64
+#<=dev-lang/mono-5.8.0.22 ~amd64
+dev-libs/gmime ~amd64
+dev-dotnet/xdt-for-monodevelop ~amd64
+dev-util/monodevelop ~amd64
+dev-dotnet/nuget ~amd64
+dev-dotnet/gnome-sharp ~amd64
+www-servers/xsp ~amd64
+dev-dotnet/gtk-sharp ~amd64
+

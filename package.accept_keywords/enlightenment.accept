@@ -1,0 +1,8 @@
+=net-misc/connman-gtk-1.0 ~amd64
+=net-misc/connman-ui-9999 **
+
+
+=dev-libs/efl-1.15.2 ~amd64
+=x11-wm/enlightenment-0.19.12 ~amd64
+=media-libs/elementary-1.15.2 ~amd64
+

@@ -1,0 +1,19 @@
+dev-java/oracle-jdk-bin Oracle-BCLA-JavaSE
+>=media-video/makemkv-1.8.5 MakeMKV-EULA
+>=dev-java/sun-jdk-1.6.0.43 Oracle-BCLA-JavaSE
+app-emulation/virtualbox-bin PUEL
+www-plugins/adobe-flash AdobeFlash-11.x
+www-client/google-chrome google-chrome
+www-client/google-chrome-beta google-chrome
+www-plugins/google-talkplugin Google-TOS
+
+>=app-emulation/emul-linux-x86-java-1.6.0.43 Oracle-BCLA-JavaSE
+media-sound/google-musicmanager Google-TOS
+
+www-plugins/chrome-binary-plugins google-chrome
+
+dev-util/nvidia-cuda-toolkit NVIDIA-CUDA
+www-client/google-chrome-unstable google-chrome
+=net-im/skype-4.2.0.13 skype-4.0.0.7-copyright
+>=net-im/skype-4.3.0.37-r3 skype-4.0.0.7-copyright
+dev-dotnet/referenceassemblies-pcl dotnet-eula

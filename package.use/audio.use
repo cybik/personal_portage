@@ -1,0 +1,3 @@
+>=media-sound/apulse-0.1.4 abi_x86_32
+media-sound/pulseaudio qt4 libsamplerate realtime gnome equalizer
+

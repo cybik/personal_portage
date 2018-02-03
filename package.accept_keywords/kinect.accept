@@ -1,0 +1,6 @@
+=dev-libs/OpenNI-1.5.7.10 ~amd64
+=dev-libs/OpenNI2-2.2_beta2 ~amd64
+
+=media-libs/openni-9999 **
+=media-libs/openni-kinect-9999 **
+

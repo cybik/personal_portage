@@ -1,0 +1,11 @@
+>=dev-libs/libpcre2-10.22 pcre16
+dev-qt/qtwebengine widgets
+#dev-qt/qtmultimedia -alsa
+dev-qt/qtwebkit multimedia printsupport webchannel
+>=dev-qt/qtgui-5.7.0 libinput evdev tslib tuio ibus egl
+dev-qt/qtwayland egl
+
+>=dev-libs/libpcre-8.36 pcre16
+
+#dev-qt/qtwebengine geolocation
+app-crypt/pinentry -qt4 qt5

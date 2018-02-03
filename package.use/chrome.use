@@ -1,0 +1,3 @@
+>=media-libs/libvpx-1.5.0 svc
+>=dev-libs/libxml2-2.9.2-r4 icu
+www-client/chromium widevine

@@ -1,0 +1,9 @@
+
+
+media-libs/assimp ~amd64 
+app-accessibility/speech-dispatcher ~amd64
+
+
+
+=dev-libs/leveldb-1.18-r1 ~amd64
+=dev-qt/qtchooser-0_p20150102 ~amd64
