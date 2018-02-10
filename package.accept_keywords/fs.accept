@@ -1,15 +1,7 @@
-=sys-fs/zfs-0.7.1 ~amd64
-=sys-kernel/spl-0.7.1 ~amd64
-=sys-fs/zfs-kmod-0.7.1 ~amd64
+<=sys-fs/zfs-0.7.6 ~amd64
+<=sys-kernel/spl-0.7.6 ~amd64
+<=sys-fs/zfs-kmod-0.7.6 ~amd64
 
 
 =net-fs/nfs-utils-2.1.1 ~amd64
 
-=sys-kernel/spl-0.6.5.11 ~amd64
-=sys-fs/zfs-0.6.5.11 ~amd64
-=sys-fs/zfs-kmod-0.6.5.11 ~amd64
-
-=sys-kernel/spl-0.6.5.8 ~amd64
-=sys-fs/zfs-kmod-0.6.5.8 ~amd64
-=sys-fs/zfs-0.6.5.8 ~amd64
-=sys-fs/zfs-0.6.5.8-r1 ~amd64
